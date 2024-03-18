@@ -1,2 +1,2 @@
 # Codsoft-project
-It is simpply the number guessing game in which i use c++ programming to compile and run my code.
+It is simply the number Guessing game in which i use c++ Programming to compile and run my code.
